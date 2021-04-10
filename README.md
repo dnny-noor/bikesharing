@@ -17,7 +17,7 @@ Create data visuals with Tableau to analyze the bikesharing business model of Ci
 6. User Trips by Duration -Customer user types do not show a common ride duration as the counts range over 7 to 29 minutes. Subscribers commonly tend to take shorter durations between 2 to 12 minutes.  
 ![Resources/sheet6.PNG](Resources/sheet6.PNG)  
 7. User Breakdown by Gender -The majority of customer genders are unknown, however, male rides outweight females rides in both customer and subscriber user types.  
-![Resources/sheet7.PNG](Resources/sheet8.PNG)  
+![Resources/sheet7.PNG](Resources/sheet7.PNG)  
 
 ## Summary  
 A Tableau story was designed to visualize the analyses and how the bike sharing business will operate. Actual numbers will vary from city to city depending on the population and tourist amount.  
